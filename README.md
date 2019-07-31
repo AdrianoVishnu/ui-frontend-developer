@@ -4,6 +4,7 @@
 ## Instruções
 
 1ª Opção: Baixe o arquivo index.html e a pasta assets, deixe todos na mesma pasta e rode o arquivo index.html em qualquer navegador.
+
 2ª Opção: Baixe o .zip, extraia no local desejado e rode o arquivo index.html em qualquer navegador.
 
 LIVE DEMO: https://bit.ly/2K5XnLq
